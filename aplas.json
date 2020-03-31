@@ -21,7 +21,47 @@
       "months_to_renew_support": "2",
       "sme_email": "Jo.Talkington@memento.net.au",
       "vendor_phone": "+98 708 515 5535",
-      "investment_number": "252"
+      "investment_number": "252",
+      "integrations": [
+        {
+          "id": "int-321",
+          "name": "INT-321",
+          "categoryId": "59389244-3d74-4e25-9019-51854731feb4",
+          "description": "Sed vel enim sit amet nunc viverra dapibus.",
+          "sourceApplicationId": "sonsing",
+          "targetApplicationId": "cookley",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "Enrichment",
+          "golive_date": "15/2/09",
+          "sme_name": "Hildegaard Tollit",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "System Control",
+          "status": "Active",
+          "sme_email": "htollita@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "22/9/16"
+        },
+        {
+          "id": "int-027",
+          "name": "INT-027",
+          "categoryId": "3bdb7133-46fe-4c31-a5ec-9910379cbf29",
+          "description": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+          "sourceApplicationId": "sonsing",
+          "targetApplicationId": "cookley",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "Sync Request-Reply",
+          "golive_date": "21/8/07",
+          "sme_name": "Gunner Cust",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "gcust7@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "7/10/17"
+        }
+      ]
     }
   ]
 }
