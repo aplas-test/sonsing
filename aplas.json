@@ -1,23 +1,27 @@
 {
-  "id": "sonsing",
-  "name": "Sonsing",
-  "categoryId": "marketing",
-  "description": "Customer-focused contextually-based moderator",
-  "investment_24m": "826",
-  "hostedtype": "OnPremise",
-  "vendor_contact_name": "Bancroft Bucktrout",
-  "licensing_cost": "91",
-  "status_color": "#00FF00",
-  "type": "InHouseDev",
-  "support_cost": "483",
-  "deployment_date": "7/2/16",
-  "end_of_maintenance": "16/9/17",
-  "department": "Legal",
-  "status": "Active",
-  "end_of_life": "27/12/18",
-  "vendor_email": "Bancroft.Bucktrout@Microsoft.com",
-  "months_to_renew_support": "2",
-  "sme_email": "Jo.Talkington@memento.net.au",
-  "vendor_phone": "+98 708 515 5535",
-  "investment_number": "252"
+  "applications": [
+    {
+      "id": "sonsing",
+      "name": "Sonsing",
+      "categoryId": "marketing",
+      "description": "Customer-focused contextually-based moderator",
+      "investment_24m": "826",
+      "hostedtype": "OnPremise",
+      "vendor_contact_name": "Bancroft Bucktrout",
+      "licensing_cost": "91",
+      "status_color": "#00FF00",
+      "type": "InHouseDev",
+      "support_cost": "483",
+      "deployment_date": "7/2/16",
+      "end_of_maintenance": "16/9/17",
+      "department": "Legal",
+      "status": "Active",
+      "end_of_life": "27/12/18",
+      "vendor_email": "Bancroft.Bucktrout@Microsoft.com",
+      "months_to_renew_support": "2",
+      "sme_email": "Jo.Talkington@memento.net.au",
+      "vendor_phone": "+98 708 515 5535",
+      "investment_number": "252"
+    }
+  ]
 }
